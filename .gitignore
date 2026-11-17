@@ -49,3 +49,6 @@ GoogleService-Info.plist
 key.properties
 *.jks
 .env
+
+android/build/
+local.properties
